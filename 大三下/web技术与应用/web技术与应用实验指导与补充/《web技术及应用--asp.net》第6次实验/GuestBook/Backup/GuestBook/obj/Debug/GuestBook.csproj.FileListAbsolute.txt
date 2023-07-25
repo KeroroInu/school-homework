@@ -1,0 +1,11 @@
+E:\Teaching\web技术及应用(ASP.Net)\源码\GuestBook_C#\GuestBook\bin\GuestBook.dll
+E:\Teaching\web技术及应用(ASP.Net)\源码\GuestBook_C#\GuestBook\bin\GuestBook.pdb
+E:\Teaching\web技术及应用(ASP.Net)\源码\GuestBook_C#\GuestBook\obj\Debug\ResolveAssemblyReference.cache
+E:\Teaching\web技术及应用(ASP.Net)\源码\GuestBook_C#\GuestBook\obj\Debug\GuestBook.Global.resources
+E:\Teaching\web技术及应用(ASP.Net)\源码\GuestBook_C#\GuestBook\obj\Debug\GuestBook.GuestBook.resources
+E:\Teaching\web技术及应用(ASP.Net)\源码\GuestBook_C#\GuestBook\obj\Debug\GuestBook.Login.resources
+E:\Teaching\web技术及应用(ASP.Net)\源码\GuestBook_C#\GuestBook\obj\Debug\GuestBook.Reply.resources
+E:\Teaching\web技术及应用(ASP.Net)\源码\GuestBook_C#\GuestBook\obj\Debug\GuestBook.View.resources
+E:\Teaching\web技术及应用(ASP.Net)\源码\GuestBook_C#\GuestBook\obj\Debug\GuestBook.csproj.GenerateResource.Cache
+E:\Teaching\web技术及应用(ASP.Net)\源码\GuestBook_C#\GuestBook\obj\Debug\GuestBook.dll
+E:\Teaching\web技术及应用(ASP.Net)\源码\GuestBook_C#\GuestBook\obj\Debug\GuestBook.pdb

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="GuestBook">
+</Property><Property Name="解决方案文件" Value="E:\GuestBook\GuestBook.sln">
+</Property><Property Name="用户选项文件" Value="E:\GuestBook\GuestBook.suo">
+</Property><Property Name="Date" Value="2009年12月8日">
+</Property><Property Name="Time" Value="12:25">
+</Property><Property Name="日志号" Value="2">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="GuestBook.sln" Description="文件已成功备份为 E:\GuestBook\Backup\GuestBook.sln">
+</Event><Event ErrorLevel="0" Project="" Source="GuestBook.suo" Description="文件已成功备份为 E:\GuestBook\Backup\GuestBook.suo">
+</Event><Event ErrorLevel="1" Project="GuestBook" Source="http://localhost/GuestBook/GuestBook.csproj" Description="警告: 正将项目文件备份到与原始解决方案相对路径不同的相对路径中。文件夹层次结构上的差异可能会导致在打开或生成备份的解决方案和项目时出现问题。">
+</Event><Event ErrorLevel="0" Project="" Source="GuestBook.sln" Description="成功转换解决方案">
+</Event><Event ErrorLevel="3" Project="" Source="GuestBook.sln" Description="Converted">
+</Event></UpgradeLog>

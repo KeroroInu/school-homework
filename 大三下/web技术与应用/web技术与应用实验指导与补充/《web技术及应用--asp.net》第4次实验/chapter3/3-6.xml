@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="gb2312" ?>
+<Advertisements>
+   <Ad>
+      <ImageUrl>images/edu.gif</ImageUrl>
+      <NavigateUrl>http://www.edu.cn</NavigateUrl>
+      <AlternateText>中国教育科研网</AlternateText>
+      <Keyword>Education</Keyword>
+      <Impressions>20</Impressions>
+   </Ad>
+   <Ad>
+      <ImageUrl>images/sohu.gif</ImageUrl>
+      <NavigateUrl>http://www.sohu.com</NavigateUrl>
+      <AlternateText>搜狐</AlternateText>
+      <Keyword>门户网站</Keyword>
+      <Impressions>30</Impressions>
+   </Ad>
+</Advertisements>
+

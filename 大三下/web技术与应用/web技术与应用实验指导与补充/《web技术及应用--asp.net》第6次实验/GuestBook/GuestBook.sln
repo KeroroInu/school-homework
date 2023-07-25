@@ -1,0 +1,37 @@
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "GuestBook", "http://localhost/GuestBook", "{261AA789-C0A1-4013-9EB0-82B22155C37F}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFramework = "3.5"
+		Debug.AspNetCompiler.VirtualPath = "/GuestBook"
+		Debug.AspNetCompiler.PhysicalPath = "..\GuestBook\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\GuestBook\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/GuestBook"
+		Release.AspNetCompiler.PhysicalPath = "..\GuestBook\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\GuestBook\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		SlnRelativePath = "..\GuestBook\"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|.NET = Debug|.NET
+		Release|.NET = Release|.NET
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{261AA789-C0A1-4013-9EB0-82B22155C37F}.Debug|.NET.ActiveCfg = Debug|.NET
+		{261AA789-C0A1-4013-9EB0-82B22155C37F}.Debug|.NET.Build.0 = Debug|.NET
+		{261AA789-C0A1-4013-9EB0-82B22155C37F}.Release|.NET.ActiveCfg = Release|.NET
+		{261AA789-C0A1-4013-9EB0-82B22155C37F}.Release|.NET.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

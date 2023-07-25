@@ -1,0 +1,20 @@
+body { background:#FFFFFF; font-size: 12px; margin-top:0px}
+td {  font-size: 12px}
+input, textarea {  font-size: 12px; border-width:1px}
+select {  font-size: 12px; border-width:1px}
+
+.MFont
+{
+	font-weight: bold;
+	font-size: 14px;
+	color: #000000;
+	font-family: ËÎÌו;
+}
+.Title
+{
+	font-weight: bold;
+	font-size: 14pt;
+	color: #ccffff;
+	font-family: ËÎÌו;
+	background-color: transparent;
+}

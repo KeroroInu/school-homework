@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{56448145-0A55-40B1-8940-EF0915A13C7F}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.语法基础 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="../../web技术与应用/testl_1.html">
+    <Files>
+      <File FileName="../../web技术与应用/testl_1.html" Line="21" Column="25" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+</Properties>

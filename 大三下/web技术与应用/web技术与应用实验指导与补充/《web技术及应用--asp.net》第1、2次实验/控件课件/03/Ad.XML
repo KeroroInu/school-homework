@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="gb2312"?>
+<Advertisements>
+  <Ad>
+     <ImageUrl>pic1.jpg</ImageUrl>
+     <NavigateUrl>http://www.sina.com.cn</NavigateUrl>
+     <AlternateText>新浪</AlternateText>
+     <Keyword>Good</Keyword>
+     <Impressions>60</Impressions>
+  </Ad>
+  <Ad>
+     <ImageUrl>pic2.jpg</ImageUrl>
+     <NavigateUrl>http://www.pku.edu.cn</NavigateUrl>
+     <AlternateText>北京大学</AlternateText>
+     <Keyword>best</Keyword>
+     <Impressions>80</Impressions>
+  </Ad>
+  <Ad>
+     <ImageUrl>pic3.jpg</ImageUrl>
+     <NavigateUrl>http://www.tsinghua.edu.cn</NavigateUrl>
+     <AlternateText>清华大学</AlternateText>
+     <Keyword>Best</Keyword>
+     <Impressions>70</Impressions>
+  </Ad>
+</Advertisements>

@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{E34E26BA-FA14-422B-B51D-695971F01D53}|">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.WebApplication7 PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="WebApplication7/main.aspx">
+    <Files>
+      <File FileName="WebApplication7/chat.html" Line="12" Column="12" />
+      <File FileName="../../../Users/zyh/Desktop/第二学期/web程序设计/实训报告/实验3/one.aspx" Line="1" Column="1" />
+      <File FileName="WebApplication7/main.aspx" Line="7" Column="34" />
+      <File FileName="WebApplication7/Global.asax" Line="1" Column="1" />
+      <File FileName="WebApplication7/send.aspx" Line="17" Column="7" />
+      <File FileName="WebApplication7/Web.config" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="WebApplication7" expanded="True">
+            <Node name="WebApplication7" expanded="True">
+              <Node name="main.aspx" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>
